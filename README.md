@@ -10,3 +10,26 @@ To get output, open cmd and type the following command:
 ```
 python main.py -r <prepared folder> -s <output folder>
 ```
+
+For example, I create a hcm03 folder:
+* hcm03
+  * JPEGImages
+    * image1.jpg
+    * image2.jpg
+  * Annotations
+    * image1.xml
+    * image2.xml
+
+And I want to save solved image on folder output
+Run following command:
+
+```
+python main.py -r hcm03 -s output
+```
+
+
+![Input](/hcm03/000000193.jpg)
+
+![Output](/output/000000193.jpg)
+
+
