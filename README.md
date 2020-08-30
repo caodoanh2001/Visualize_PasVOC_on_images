@@ -4,6 +4,7 @@ This is a tool which can visualize coordinates of bounding box on .xml file unde
 You have to put all images on **JPEGImages** folder and all label files .xml on **Annotations** folder
 
 The output of this tool are images with bounding boxes and class names
+
 To get output, open cmd and type the following command:
 
 ```
