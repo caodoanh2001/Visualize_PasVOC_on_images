@@ -27,10 +27,10 @@ Run following command:
 python main.py -r hcm03 -s output
 ```
 
-##Input:
+## Input:
 ![Input](/hcm03/JPEGImages/000000193.jpg)
 
-##Output:
+## Output:
 ![Output](/output/000000193.jpg)
 
 
